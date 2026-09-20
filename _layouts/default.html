@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <nav>
+      <a href="{{ site.baseurl }}/">Start Here</a>
+      <a href="{{ site.baseurl }}/guide/">The 5 Steps</a>
+      <a href="{{ site.baseurl }}/guide/playground/">Playground</a>
+      <a href="{{ site.baseurl }}/guide/glossary-lite/">Words</a>
+      <a href="https://irfancode.github.io/sre-in-the-age-of-ai/">The Full Book →</a>
+    </nav>
+  </div>
+</header>
+<main id="main" class="wrap">{{ content }}</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="small">SRE in the Age of AI — the 5-step beginner month. Companion to the <a href="{{ site.baseurl }}/">full book</a>. Built for humans, cloud-agnostic, blameless by default. <a href="https://github.com/irfancode/sre-in-the-age-of-ai-beginners">Source</a> · <a href="{{ site.baseurl }}/guide/">Start Step 1</a></p>
+  </div>
+</footer>
+</body>
+</html>

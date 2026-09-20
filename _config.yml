@@ -1,0 +1,17 @@
+title: "SRE in the Age of AI — The Beginner's 5-Step First Month"
+description: "You just agreed to be 'responsible for reliability.' Here is exactly what to do in your first 30 days — the mission-defining question, one SLO, one cheap sensor, one shrug-free runbook, and your first replay. No prior ops experience required. Links out to the big 36-chapter book (sre-in-the-age-of-ai) whenever you want more."
+url: "https://irfancode.github.io"
+baseurl: "/sre-in-the-age-of-ai-beginners"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "guide"
+    values:
+      layout: default
