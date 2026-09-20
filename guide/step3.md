@@ -4,7 +4,7 @@ description: "One honest sensor on the system, so you're measuring reality — n
 layout: default
 ---
 
-<div class="chapter-meta"><b>Time:</b> 20 minutes (+ a lunch to watch it). <b>You need:</b> the SLO from [Step 2](step2/).</div>
+<div class="chapter-meta"><b>Time:</b> 20 minutes (+ a lunch to watch it). <b>You need:</b> the SLO from [Step 2](step2.html).</div>
 
 <h1>Step 3 — Measure the Real Thing</h1>
 
@@ -27,7 +27,7 @@ You want at least *one* of these logging numbers you can point to. Don't build a
 
 <div class="callout">
   <span class="faint"><i class="fa-solid fa-flask"></i> The playground shortcut</span>
-  <p>Don't have a production system to measure yet? The [Playground](playground/) has a fake service whose numbers you can watch move. Learn the habit there, then point it at the real thing.</p>
+  <p>Don't have a production system to measure yet? The [Playground](playground.html) has a fake service whose numbers you can watch move. Learn the habit there, then point it at the real thing.</p>
 </div>
 
 <div class="callout good">

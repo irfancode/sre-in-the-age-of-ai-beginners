@@ -43,7 +43,7 @@ When the uncomfortable moment comes (a 3 a.m. page on your real service, years f
 
 <div class="callout good">
   <span class="faint"><i class="fa-solid fa-flask"></i> Upgrade when ready</span>
-  <p><b>Point the SAME habit at your real service</b> (Step 3's "one honest sensor"): measure real user "good ÷ all," check it weekly, and let your AI teammate draft the dashboard while you keep the judgment. The playground showed you the pattern; production is just the pattern with the handrails on. [glossary-lite](glossary-lite/) has the words; the full book has the deep dive — but nothing replaces having rehearsed it yourself.</p>
+  <p><b>Point the SAME habit at your real service</b> (Step 3's "one honest sensor"): measure real user "good ÷ all," check it weekly, and let your AI teammate draft the dashboard while you keep the judgment. The playground showed you the pattern; production is just the pattern with the handrails on. [glossary-lite](glossary-lite.html) has the words; the full book has the deep dive — but nothing replaces having rehearsed it yourself.</p>
 </div>
 
 <p><a href="step5/"><b>← Back to Step 5 (you've earned it)</b></a> · <a href="glossary-lite/">No-jargon word box →</a></p>

@@ -4,7 +4,7 @@ description: "The 6-line document that turns 'I panic' into 'I follow the card.'
 layout: default
 ---
 
-<div class="chapter-meta"><b>Time:</b> 15 minutes. <b>You need:</b> the service from [Step 1](step1/).</div>
+<div class="chapter-meta"><b>Time:</b> 15 minutes. <b>You need:</b> the service from [Step 1](step1.html).</div>
 
 <h1>Step 4 — Write One Runbook</h1>
 
@@ -28,7 +28,7 @@ IF STILL BROKEN after the 3 steps:
   (Nobody guesses at 3 a.m. — we follow the card.)
 
 AFTER: 
-  paste the timeline into [your blameless review](step5/). Done.
+  paste the timeline into [your blameless review](step5.html). Done.
 ```
 
 ## The 2026 rule that makes it shine

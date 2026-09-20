@@ -4,7 +4,7 @@ description: "One number you can defend: '99.9% of the time, X happens in Y seco
 layout: default
 ---
 
-<div class="chapter-meta"><b>Time:</b> 15 minutes. <b>You need:</b> the service name from [Step 1](step1/).</div>
+<div class="chapter-meta"><b>Time:</b> 15 minutes. <b>You need:</b> the service name from [Step 1](step1.html).</div>
 
 <h1>Step 2 — Write Your First SLO</h1>
 

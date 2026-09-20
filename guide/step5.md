@@ -4,7 +4,7 @@ description: "Look back on the week without blaming anyone (including yourself),
 layout: default
 ---
 
-<div class="chapter-meta"><b>Time:</b> 15 minutes. <b>You need:</b> the sensor's numbers from [Step 3](step3/), and honest curiosity.</div>
+<div class="chapter-meta"><b>Time:</b> 15 minutes. <b>You need:</b> the sensor's numbers from [Step 3](step3.html), and honest curiosity.</div>
 
 <h1>Step 5 — Do Your First Blameless Review</h1>
 
